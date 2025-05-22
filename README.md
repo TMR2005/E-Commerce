@@ -16,7 +16,7 @@ XLO is a sample Android-based e-commerce application developed using Kotlin and 
 - **Language:** Kotlin and Java  
 - **Database:** Room (SQLite)  
 - **Architecture:** MVVM (basic separation)  
-- **UI:** Material Design components
+- **UI:** XML layout
 
 
 
