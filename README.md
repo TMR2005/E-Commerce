@@ -4,11 +4,12 @@ XLO is a sample Android-based e-commerce application developed using Kotlin and 
 
 ## Features
 
-- 🛍️ Product listing with images, and prices
-- 🛒 Add to Cart 
-- 💳 Mock Checkout and Order history tracking
-- ❤️ Add/Remove products from Favorites
-- 🗃️ Local data persistence using Room Database
+- Product listing with images, and prices
+- Add to Cart 
+- Mock Checkout and Order history tracking
+- Add/Remove products from Favorites
+- Filters based on prices has been implemeneted
+- Local data persistence using Room Database
 
 ## Tech Stack
 
@@ -16,5 +17,6 @@ XLO is a sample Android-based e-commerce application developed using Kotlin and 
 - **Database:** Room (SQLite)  
 - **Architecture:** MVVM (basic separation)  
 - **UI:** Material Design components
+
 
 
